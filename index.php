@@ -12,6 +12,7 @@
         <li><a href="./property.php">Property</a></li>
         <li><a href="./const.php">constant</a></li>
         <li><a href="./autoloadclass.php">Autoload</a></li>
+        <li><a href="./condes.php">Constructors and Destructors</a></li>
     </ul>
 </body>
 </html>
